@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All - 分类 - 学礼以立</title>
+        <link>https://me.xxyws.top/categories/all/</link>
+        <description>All - 分类 - 学礼以立</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 26 Nov 2022 23:00:00 &#43;0800</lastBuildDate><atom:link href="https://me.xxyws.top/categories/all/" rel="self" type="application/rss+xml" /><item>
+    <title>测试</title>
+    <link>https://me.xxyws.top/first_post/</link>
+    <pubDate>Sat, 26 Nov 2022 23:00:00 &#43;0800</pubDate>
+    <author>xxy</author>
+    <guid>https://me.xxyws.top/first_post/</guid>
+    <description><![CDATA[test 中国上海]]></description>
+</item>
+</channel>
+</rss>

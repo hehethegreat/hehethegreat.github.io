@@ -2,8 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://example.com/first_post/</loc><lastmod>2022-11-26T15:38:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/posts/</loc><lastmod>2022-11-26T15:38:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/</loc><lastmod>2022-11-26T15:38:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.com/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://me.xxyws.top/first_post/</loc><lastmod>2022-11-26T23:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://me.xxyws.top/categories/all/</loc><lastmod>2022-11-26T23:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://me.xxyws.top/categories/</loc><lastmod>2022-11-26T23:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://me.xxyws.top/posts/</loc><lastmod>2022-11-26T23:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://me.xxyws.top/tags/</loc><lastmod>2022-11-26T23:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://me.xxyws.top/tags/%E6%B5%8B%E8%AF%95/</loc><lastmod>2022-11-26T23:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://me.xxyws.top/</loc><lastmod>2022-11-26T23:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
