@@ -1,18 +1,5 @@
-# 
+# 中共中央办公厅 国务院办公厅印发《乡村振兴责任制实施办法》
 
-
-
-title: "中共中央办公厅 国务院办公厅印发《乡村振兴责任制实施办法》"
-date: 2022-12-14T08:00:00+08:00
-lastmod: 2022-12-14T08:00:00+08:00
-draft: false
-author: "xxy"
-authorLink: "https://me.xxyws.top"
-description: "乡村振兴责任制实施办法"
-tags: ["中国","法律"]
-categories: ["documentation"]
-lightgallery: true
----
 
 
 乡村振兴责任制实施办法

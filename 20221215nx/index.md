@@ -1,16 +1,5 @@
-# 
+# 扩大内需战略规划纲要（2022－2035年）
 
-title: "扩大内需战略规划纲要（2022－2035年）"
-date: 2022-12-15T17:00:00+08:00
-lastmod: 2022-12-15T17:00:00+08:00
-draft: false
-author: "xxy"
-authorLink: "https://me.xxyws.top"
-description: "扩大内需战略规划纲要"
-tags: ["中国","社会","经济"]
-categories: ["documentation"]
-lightgallery: true
----
 
 
 

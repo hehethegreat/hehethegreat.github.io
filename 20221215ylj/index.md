@@ -1,15 +1,5 @@
-# 
+# 养老金
 
-title: "养老金"
-date: 2022-12-15T17:00:00+08:00
-lastmod: 2022-12-15T17:00:00+08:00
-draft: false
-author: "xxy"
-authorLink: "https://me.xxyws.top"
-description: "养老金"
-tags: ["中国","社会","经济"]
-categories: ["documentation"]
-lightgallery: true
 
 {{< admonition info 10问个人养老金帮你算笔养老账 false>}}
 
